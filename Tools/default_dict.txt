@@ -1,0 +1,3 @@
+saluto:#ffff00
+nome:#ff00ff
+lavoro:#00ffff
