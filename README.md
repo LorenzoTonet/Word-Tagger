@@ -18,6 +18,9 @@ This tool is especially useful for researchers, data scientists, and NLP practit
 
 ### Instruction to use:
 1) Run "HighlighterApp.py"
+2) Create all your personalized labels and click on "Next"
+3) Paste your text or open a .txt file
+4) Have fun tagging
 
 Authors: 
 - [@frekkoz3](https://github.com/frekkoz3)
